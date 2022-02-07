@@ -2,3 +2,4 @@ Sofyan Resolusi
 - belajar PHP dasar
 - Membuat website appoitment untuk barbershop
 - menyelesaikan skripsi
+- Jadi Programmer
