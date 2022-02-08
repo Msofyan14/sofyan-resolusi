@@ -7,3 +7,7 @@ rencana konnten sofyan
 - CI
 - Bootstrap
 - Database
+ *mysql
+ *mongodb
+ *postgres
+ - API
